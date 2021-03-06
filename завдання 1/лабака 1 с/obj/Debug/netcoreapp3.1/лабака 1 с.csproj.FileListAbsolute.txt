@@ -1,0 +1,13 @@
+C:\лабки c#\лабака 1 с\лабака 1 с\obj\Debug\netcoreapp3.1\лабака 1 с.AssemblyInfoInputs.cache
+C:\лабки c#\лабака 1 с\лабака 1 с\obj\Debug\netcoreapp3.1\лабака 1 с.AssemblyInfo.cs
+C:\лабки c#\лабака 1 с\лабака 1 с\obj\Debug\netcoreapp3.1\лабака 1 с.csproj.CoreCompileInputs.cache
+C:\лабки c#\лабака 1 с\лабака 1 с\bin\Debug\netcoreapp3.1\лабака 1 с.exe
+C:\лабки c#\лабака 1 с\лабака 1 с\bin\Debug\netcoreapp3.1\лабака 1 с.deps.json
+C:\лабки c#\лабака 1 с\лабака 1 с\bin\Debug\netcoreapp3.1\лабака 1 с.runtimeconfig.json
+C:\лабки c#\лабака 1 с\лабака 1 с\bin\Debug\netcoreapp3.1\лабака 1 с.runtimeconfig.dev.json
+C:\лабки c#\лабака 1 с\лабака 1 с\bin\Debug\netcoreapp3.1\лабака 1 с.dll
+C:\лабки c#\лабака 1 с\лабака 1 с\bin\Debug\netcoreapp3.1\лабака 1 с.pdb
+C:\лабки c#\лабака 1 с\лабака 1 с\obj\Debug\netcoreapp3.1\лабака 1 с.dll
+C:\лабки c#\лабака 1 с\лабака 1 с\obj\Debug\netcoreapp3.1\лабака 1 с.pdb
+C:\лабки c#\лабака 1 с\лабака 1 с\obj\Debug\netcoreapp3.1\лабака 1 с.genruntimeconfig.cache
+C:\лабки c#\лабака 1 с\лабака 1 с\obj\Debug\netcoreapp3.1\лабака 1 с.csprojAssemblyReference.cache

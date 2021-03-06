@@ -1,0 +1,13 @@
+C:\лабки c#\завдвння 4\завдвння 4\bin\Debug\netcoreapp3.1\завдвння 4.exe
+C:\лабки c#\завдвння 4\завдвння 4\bin\Debug\netcoreapp3.1\завдвння 4.deps.json
+C:\лабки c#\завдвння 4\завдвння 4\bin\Debug\netcoreapp3.1\завдвння 4.runtimeconfig.json
+C:\лабки c#\завдвння 4\завдвння 4\bin\Debug\netcoreapp3.1\завдвння 4.runtimeconfig.dev.json
+C:\лабки c#\завдвння 4\завдвння 4\bin\Debug\netcoreapp3.1\завдвння 4.dll
+C:\лабки c#\завдвння 4\завдвння 4\bin\Debug\netcoreapp3.1\завдвння 4.pdb
+C:\лабки c#\завдвння 4\завдвння 4\obj\Debug\netcoreapp3.1\завдвння 4.csprojAssemblyReference.cache
+C:\лабки c#\завдвння 4\завдвння 4\obj\Debug\netcoreapp3.1\завдвння 4.AssemblyInfoInputs.cache
+C:\лабки c#\завдвння 4\завдвння 4\obj\Debug\netcoreapp3.1\завдвння 4.AssemblyInfo.cs
+C:\лабки c#\завдвння 4\завдвння 4\obj\Debug\netcoreapp3.1\завдвння 4.csproj.CoreCompileInputs.cache
+C:\лабки c#\завдвння 4\завдвння 4\obj\Debug\netcoreapp3.1\завдвння 4.dll
+C:\лабки c#\завдвння 4\завдвння 4\obj\Debug\netcoreapp3.1\завдвння 4.pdb
+C:\лабки c#\завдвння 4\завдвння 4\obj\Debug\netcoreapp3.1\завдвння 4.genruntimeconfig.cache
