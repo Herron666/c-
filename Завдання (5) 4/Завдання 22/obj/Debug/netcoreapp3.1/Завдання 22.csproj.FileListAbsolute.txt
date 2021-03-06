@@ -1,0 +1,13 @@
+C:\лабки c#\Завдання 22\Завдання 22\bin\Debug\netcoreapp3.1\Завдання 22.exe
+C:\лабки c#\Завдання 22\Завдання 22\bin\Debug\netcoreapp3.1\Завдання 22.deps.json
+C:\лабки c#\Завдання 22\Завдання 22\bin\Debug\netcoreapp3.1\Завдання 22.runtimeconfig.json
+C:\лабки c#\Завдання 22\Завдання 22\bin\Debug\netcoreapp3.1\Завдання 22.runtimeconfig.dev.json
+C:\лабки c#\Завдання 22\Завдання 22\bin\Debug\netcoreapp3.1\Завдання 22.dll
+C:\лабки c#\Завдання 22\Завдання 22\bin\Debug\netcoreapp3.1\Завдання 22.pdb
+C:\лабки c#\Завдання 22\Завдання 22\obj\Debug\netcoreapp3.1\Завдання 22.csprojAssemblyReference.cache
+C:\лабки c#\Завдання 22\Завдання 22\obj\Debug\netcoreapp3.1\Завдання 22.AssemblyInfoInputs.cache
+C:\лабки c#\Завдання 22\Завдання 22\obj\Debug\netcoreapp3.1\Завдання 22.AssemblyInfo.cs
+C:\лабки c#\Завдання 22\Завдання 22\obj\Debug\netcoreapp3.1\Завдання 22.csproj.CoreCompileInputs.cache
+C:\лабки c#\Завдання 22\Завдання 22\obj\Debug\netcoreapp3.1\Завдання 22.dll
+C:\лабки c#\Завдання 22\Завдання 22\obj\Debug\netcoreapp3.1\Завдання 22.pdb
+C:\лабки c#\Завдання 22\Завдання 22\obj\Debug\netcoreapp3.1\Завдання 22.genruntimeconfig.cache
