@@ -1,0 +1,10 @@
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\bin\Debug\завданя 8 (1).exe.config
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\bin\Debug\завданя 8 (1).exe
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\bin\Debug\завданя 8 (1).pdb
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\obj\Debug\завданя 8 (1).csprojAssemblyReference.cache
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\obj\Debug\завданя_8__1_.Form1.resources
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\obj\Debug\завданя_8__1_.Properties.Resources.resources
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\obj\Debug\завданя 8 (1).csproj.GenerateResource.cache
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\obj\Debug\завданя 8 (1).csproj.CoreCompileInputs.cache
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\obj\Debug\завданя 8 (1).exe
+C:\лабки c#\завданя 8 (1)\завданя 8 (1)\obj\Debug\завданя 8 (1).pdb

@@ -1,0 +1,5 @@
+C:\лабки c#\лабараторна 7 (1)\лабараторна 7 (1)\obj\Debug\лабараторна 7 (1).csprojAssemblyReference.cache
+C:\лабки c#\лабараторна 7 (1)\лабараторна 7 (1)\obj\Debug\лабараторна_7__1_.Form1.resources
+C:\лабки c#\лабараторна 7 (1)\лабараторна 7 (1)\obj\Debug\лабараторна_7__1_.Properties.Resources.resources
+C:\лабки c#\лабараторна 7 (1)\лабараторна 7 (1)\obj\Debug\лабараторна 7 (1).csproj.GenerateResource.cache
+C:\лабки c#\лабараторна 7 (1)\лабараторна 7 (1)\obj\Debug\лабараторна 7 (1).csproj.CoreCompileInputs.cache
