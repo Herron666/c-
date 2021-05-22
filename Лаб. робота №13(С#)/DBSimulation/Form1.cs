@@ -50,7 +50,12 @@ namespace DBSimulation
             _db.Add(newPc);
             Show(_db.GetAll());
             tabControl1.SelectedIndex = 0;
-            
+            StreamWriter sw = new StreamWriter("text.txt", true);
+            sw.WriteLine(textBoxName.Text);
+            sw.WriteLine(textBoxWork.Text);
+            sw.WriteLine(textBoxNumber1.Text);
+            sw.WriteLine(textBoxNumber2.Text);
+            sw.Close();
 
         }
 
