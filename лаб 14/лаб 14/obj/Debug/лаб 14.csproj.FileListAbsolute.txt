@@ -1,0 +1,10 @@
+C:\лабки c#\лаб 14\лаб 14\bin\Debug\лаб 14.exe.config
+C:\лабки c#\лаб 14\лаб 14\bin\Debug\лаб 14.exe
+C:\лабки c#\лаб 14\лаб 14\bin\Debug\лаб 14.pdb
+C:\лабки c#\лаб 14\лаб 14\obj\Debug\лаб 14.csprojAssemblyReference.cache
+C:\лабки c#\лаб 14\лаб 14\obj\Debug\лаб_14.Form1.resources
+C:\лабки c#\лаб 14\лаб 14\obj\Debug\лаб_14.Properties.Resources.resources
+C:\лабки c#\лаб 14\лаб 14\obj\Debug\лаб 14.csproj.GenerateResource.cache
+C:\лабки c#\лаб 14\лаб 14\obj\Debug\лаб 14.csproj.CoreCompileInputs.cache
+C:\лабки c#\лаб 14\лаб 14\obj\Debug\лаб 14.exe
+C:\лабки c#\лаб 14\лаб 14\obj\Debug\лаб 14.pdb
